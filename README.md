@@ -90,6 +90,9 @@ $ cd Hello-rails-frontend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Backend repository PR
+  [link](https://github.com/Elijahdre/hello-rails-back-end/pull/1)
+
 <!-- AUTHORS -->
 
 ## Author
