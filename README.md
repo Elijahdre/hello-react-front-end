@@ -10,6 +10,7 @@
     - [Prerequisites](#prerequisites)
     - [Install \& Setup](#install--setup)
     - [Tests](#tests)
+    - [Backend repository PR](#backend-repository-pr)
   - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -24,7 +25,7 @@
  **Hello-react-App** is an app I used to create a backend rails api to display a random message.
 
 
-## 🛠 Built With <a name="React.js"></a>
+## 🛠 Built With <a name="#-built-with-"></a>
 
 ### Tech Stack <a name="Javascript"></a>
 
@@ -90,7 +91,7 @@ $ cd Hello-rails-frontend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Backend repository PR
+### This is a link to the Backend repository PR
   [link](https://github.com/Elijahdre/hello-rails-back-end/pull/1)
 
 <!-- AUTHORS -->
@@ -110,8 +111,6 @@ $ cd Hello-rails-frontend
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Used react-router**
 - [ ] **Consumed a rails api**
